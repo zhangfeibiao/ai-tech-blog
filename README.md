@@ -9,7 +9,7 @@
 
 | 主题 | 简介 | Markdown | HTML |
 | --- | --- | --- | --- |
-| DeepSeek Super-agent | 从「它们并行、你串行」说起：Super-agent 架构解读与技术思考。拆解 DeepSeek 开源的下一代 Agent 系统五大模块，附 9 张原创架构图 | [阅读](deepseek-super-agent/README.md) | [浏览](deepseek-super-agent/index.html) |
+| DeepSeek Super-agent | 从「它们并行、你串行」说起：Super-agent 架构解读与技术思考。拆解 DeepSeek 开源的下一代 Agent 系统五大模块，附 9 张原创架构图 | [阅读](deepseek-super-agent/README.md) | [在线浏览](https://zhangfeibiao.github.io/ai-tech-blog/deepseek-super-agent/) |
 
 > 更多主题持续更新中……
 
@@ -23,3 +23,9 @@
 ```
 
 新增一个主题时，按上述结构新建目录，并在本文件的「主题目录」表格中登记一行。
+
+## 🌐 在线阅读
+
+本仓库已开启 GitHub Pages（源：`main` 分支根目录），各主题的 HTML 版可直接在线浏览：
+
+- DeepSeek Super-agent：<https://zhangfeibiao.github.io/ai-tech-blog/deepseek-super-agent/>
